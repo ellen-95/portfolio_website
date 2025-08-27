@@ -35,6 +35,3 @@ This is a portfolio website built with Python and Streamlit to display various c
 - **Frontend Upgrade:** Rebuild the frontend using React for enhanced interactivity.
 - **Mario-style Guide:** Add a Mario-style figure that jumps around the page, helping users navigate and choose between different Python projects.
 
-## License
-
-This project is open source and available under the MIT License.
