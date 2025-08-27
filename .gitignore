@@ -1,0 +1,5 @@
+.idea
+*.docx
+data copy.csv
+.DS_Store
+__pycache__/

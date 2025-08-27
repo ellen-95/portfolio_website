@@ -1,0 +1,2 @@
+# What is this project?
+This website is a personal project showcasing my skills and projects as a software developer. It serves as an online portfolio where I can share my work, experiences, and contact information with potential employers or collaborators.
