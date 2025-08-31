@@ -5,3 +5,4 @@ PDF Templates;A script that generates PDF templates of multiple pages given some
 Chatbot with personality;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://github.com/ellen-95/Chatbot_FamousPeople;9.png
 AI agent;An AI agent that can help user to manage their tasks when using Todoist app.;https://github.com/ellen-95/Task_Manager_Agent;20.png
 Webcam;A program that can take photos using webcam and convert photos to grey version.;https://github.com/ellen-95/webcam;11.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/ellen-95/create_weather_api;6.png
