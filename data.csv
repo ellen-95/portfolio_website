@@ -6,3 +6,4 @@ Chatbot with personality;A chatbot that knows about a specific topic and answers
 AI agent;An AI agent that can help user to manage their tasks when using Todoist app.;https://github.com/ellen-95/Task_Manager_Agent;20.png
 Webcam;A program that can take photos using webcam and convert photos to grey version.;https://github.com/ellen-95/webcam;11.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/ellen-95/create_weather_api;6.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/ellen-95/weather_forecast_dashboard;16.png
